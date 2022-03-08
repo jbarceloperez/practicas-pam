@@ -1,0 +1,5 @@
+*.odt
+*.pdf
+*.zip
+.vscode/
+openmp_squarematrix.c
