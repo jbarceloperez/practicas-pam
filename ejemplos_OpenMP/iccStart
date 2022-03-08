@@ -1,0 +1,22 @@
+#! /bin/bash
+
+#
+# Cargamos en el path las rutas del compilador icc
+#
+# Ejecutar con . iniciaricc o source iniciaricc
+#
+# Luna.inf.um.es
+#
+# Si existe algún problema ponerse en contacto con
+# el administrador
+#
+# Contacto: luna.pcgum@gmail.com
+#
+
+source /opt/intel/Compiler/11.1/046/bin/iccvars.sh ia32
+
+export PATH=$PATH:/opt/intel/Compiler/11.1/046/bin/
+export LIB_PATH=$LIB_PATH:/opt/intel/Compiler/11.1/046/lib/
+export CC=icc
+export CXX=icpc
+export CFLAGS="-no -gcc"

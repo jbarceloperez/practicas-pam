@@ -1,0 +1,447 @@
+n= 512
+b= 32
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 512
+  Tam de bloque: 32
+    segundos: 0.133728, Mflops: 3.920561
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 512
+  Tam de bloque: 32
+    segundos: 0.072415, Mflops: 7.240000
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 512
+  Tam de bloque: 32
+    segundos: 0.045959, Mflops: 11.407768
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 512
+  Tam de bloque: 32
+    segundos: 0.038799, Mflops: 13.512778
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 512
+  Tam de bloque: 32
+    segundos: 0.209492, Mflops: 2.502662
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 512
+  Tam de bloque: 32
+    segundos: 0.462006, Mflops: 1.134807
+b= 64
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 512
+  Tam de bloque: 64
+    segundos: 0.174624, Mflops: 3.002377
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 512
+  Tam de bloque: 64
+    segundos: 0.085754, Mflops: 6.113849
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 512
+  Tam de bloque: 64
+    segundos: 0.047226, Mflops: 11.101606
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 512
+  Tam de bloque: 64
+    segundos: 0.037352, Mflops: 14.036388
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 512
+  Tam de bloque: 64
+    segundos: 0.071349, Mflops: 7.348183
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 512
+  Tam de bloque: 64
+    segundos: 0.093916, Mflops: 5.582498
+b= 128
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 512
+  Tam de bloque: 128
+    segundos: 0.216112, Mflops: 2.426006
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 512
+  Tam de bloque: 128
+    segundos: 0.096655, Mflops: 5.424326
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 512
+  Tam de bloque: 128
+    segundos: 0.051168, Mflops: 10.246452
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 512
+  Tam de bloque: 128
+    segundos: 0.039338, Mflops: 13.327938
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 512
+  Tam de bloque: 128
+    segundos: 0.044194, Mflops: 11.863258
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 512
+  Tam de bloque: 128
+    segundos: 0.048603, Mflops: 10.787042
+b= 256
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 512
+  Tam de bloque: 256
+    segundos: 0.207087, Mflops: 2.531732
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 512
+  Tam de bloque: 256
+    segundos: 0.098282, Mflops: 5.334505
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 512
+  Tam de bloque: 256
+    segundos: 0.052672, Mflops: 9.953735
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 512
+  Tam de bloque: 256
+    segundos: 0.037884, Mflops: 13.839420
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 512
+  Tam de bloque: 256
+    segundos: 0.046268, Mflops: 11.331586
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 512
+  Tam de bloque: 256
+    segundos: 0.041451, Mflops: 12.648341
+n= 1024
+b= 32
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 1024
+  Tam de bloque: 32
+    segundos: 0.940850, Mflops: 2.228998
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 1024
+  Tam de bloque: 32
+    segundos: 0.566207, Mflops: 3.703860
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 1024
+  Tam de bloque: 32
+    segundos: 0.337456, Mflops: 6.214596
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 1024
+  Tam de bloque: 32
+    segundos: 0.304483, Mflops: 6.887589
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 1024
+  Tam de bloque: 32
+    segundos: 1.489749, Mflops: 1.407721
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 1024
+  Tam de bloque: 32
+    segundos: 3.088485, Mflops: 0.679023
+b= 64
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 1024
+  Tam de bloque: 64
+    segundos: 1.378146, Mflops: 1.521720
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 1024
+  Tam de bloque: 64
+    segundos: 0.718869, Mflops: 2.917294
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 1024
+  Tam de bloque: 64
+    segundos: 0.404966, Mflops: 5.178591
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 1024
+  Tam de bloque: 64
+    segundos: 0.304510, Mflops: 6.886979
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 1024
+  Tam de bloque: 64
+    segundos: 0.515354, Mflops: 4.069345
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 1024
+  Tam de bloque: 64
+    segundos: 0.582708, Mflops: 3.598973
+b= 128
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 1024
+  Tam de bloque: 128
+    segundos: 1.488127, Mflops: 1.409256
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 1024
+  Tam de bloque: 128
+    segundos: 0.769029, Mflops: 2.727011
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 1024
+  Tam de bloque: 128
+    segundos: 0.432070, Mflops: 4.853737
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 1024
+  Tam de bloque: 128
+    segundos: 0.317178, Mflops: 6.611917
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 1024
+  Tam de bloque: 128
+    segundos: 0.397721, Mflops: 5.272924
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 1024
+  Tam de bloque: 128
+    segundos: 0.471608, Mflops: 4.446808
+b= 256
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 1024
+  Tam de bloque: 256
+    segundos: 1.524232, Mflops: 1.375874
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 1024
+  Tam de bloque: 256
+    segundos: 0.777494, Mflops: 2.697323
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 1024
+  Tam de bloque: 256
+    segundos: 0.439305, Mflops: 4.773794
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 1024
+  Tam de bloque: 256
+    segundos: 0.306240, Mflops: 6.848057
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 1024
+  Tam de bloque: 256
+    segundos: 0.327102, Mflops: 6.411315
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 1024
+  Tam de bloque: 256
+    segundos: 0.351562, Mflops: 5.965243
+n= 2048
+b= 32
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 2048
+  Tam de bloque: 32
+    segundos: 8.223581, Mflops: 1.020068
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 2048
+  Tam de bloque: 32
+    segundos: 4.814570, Mflops: 1.742338
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 2048
+  Tam de bloque: 32
+    segundos: 3.087628, Mflops: 2.716845
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 2048
+  Tam de bloque: 32
+    segundos: 2.583769, Mflops: 3.246655
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 2048
+  Tam de bloque: 32
+    segundos: 12.216644, Mflops: 0.686654
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 2048
+  Tam de bloque: 32
+    segundos: 26.172858, Mflops: 0.320508
+b= 64
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 2048
+  Tam de bloque: 64
+    segundos: 11.008948, Mflops: 0.761981
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 2048
+  Tam de bloque: 64
+    segundos: 6.111172, Mflops: 1.372668
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 2048
+  Tam de bloque: 64
+    segundos: 3.327635, Mflops: 2.520892
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 2048
+  Tam de bloque: 64
+    segundos: 2.296237, Mflops: 3.653199
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 2048
+  Tam de bloque: 64
+    segundos: 4.009649, Mflops: 2.092105
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 2048
+  Tam de bloque: 64
+    segundos: 5.544546, Mflops: 1.512948
+b= 128
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 2048
+  Tam de bloque: 128
+    segundos: 11.871994, Mflops: 0.706588
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 2048
+  Tam de bloque: 128
+    segundos: 6.209068, Mflops: 1.351025
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 2048
+  Tam de bloque: 128
+    segundos: 3.475431, Mflops: 2.413688
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 2048
+  Tam de bloque: 128
+    segundos: 2.508720, Mflops: 3.343780
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 2048
+  Tam de bloque: 128
+    segundos: 3.038696, Mflops: 2.760595
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 2048
+  Tam de bloque: 128
+    segundos: 3.297082, Mflops: 2.544252
+b= 256
+threads= 1
+
+  Numero de hilos: 1
+  Tam de matriz: 2048
+  Tam de bloque: 256
+    segundos: 12.239053, Mflops: 0.685397
+threads= 2
+
+  Numero de hilos: 2
+  Tam de matriz: 2048
+  Tam de bloque: 256
+    segundos: 6.836486, Mflops: 1.227035
+threads= 4
+
+  Numero de hilos: 4
+  Tam de matriz: 2048
+  Tam de bloque: 256
+    segundos: 3.516547, Mflops: 2.385467
+threads= 8
+
+  Numero de hilos: 8
+  Tam de matriz: 2048
+  Tam de bloque: 256
+    segundos: 2.528499, Mflops: 3.317624
+threads= 16
+
+  Numero de hilos: 16
+  Tam de matriz: 2048
+  Tam de bloque: 256
+    segundos: 2.585628, Mflops: 3.244322
+threads= 32
+
+  Numero de hilos: 32
+  Tam de matriz: 2048
+  Tam de bloque: 256
+    segundos: 2.766878, Mflops: 3.031795
