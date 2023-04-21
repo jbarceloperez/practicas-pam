@@ -1,0 +1,344 @@
+n= 128
+t= 1
+f= 1
+
+  Threads 1, tamano 128
+    segundos: 0.001887, Mflops: 17.364716, Mflops por thread: 17.364716
+f= 2
+
+  Threads 1, tamano 128
+    segundos: 0.001853, Mflops: 17.681705, Mflops por thread: 17.681705
+f= 4
+
+  Threads 1, tamano 128
+    segundos: 0.002025, Mflops: 16.182144, Mflops por thread: 16.182144
+f= 8
+
+  Threads 1, tamano 128
+    segundos: 0.002124, Mflops: 15.430837, Mflops por thread: 15.430837
+t= 2
+f= 1
+
+  Threads 2, tamano 128
+    segundos: 0.001176, Mflops: 27.869847, Mflops por thread: 13.934923
+f= 2
+
+  Threads 2, tamano 128
+    segundos: 0.001184, Mflops: 27.668572, Mflops por thread: 13.834286
+f= 4
+
+  Threads 2, tamano 128
+    segundos: 0.001341, Mflops: 24.436024, Mflops por thread: 12.218012
+f= 8
+
+  Threads 2, tamano 128
+    segundos: 0.001540, Mflops: 21.274593, Mflops por thread: 10.637296
+t= 4
+f= 1
+
+  Threads 4, tamano 128
+    segundos: 0.000862, Mflops: 38.016744, Mflops por thread: 9.504186
+f= 2
+
+  Threads 4, tamano 128
+    segundos: 0.000868, Mflops: 37.745629, Mflops por thread: 9.436407
+f= 4
+
+  Threads 4, tamano 128
+    segundos: 0.000889, Mflops: 36.840993, Mflops por thread: 9.210248
+f= 8
+
+  Threads 4, tamano 128
+    segundos: 0.000793, Mflops: 41.345808, Mflops por thread: 10.336452
+t= 8
+f= 1
+
+  Threads 8, tamano 128
+    segundos: 0.000580, Mflops: 56.453044, Mflops por thread: 7.056631
+f= 2
+
+  Threads 8, tamano 128
+    segundos: 0.000612, Mflops: 53.566729, Mflops por thread: 6.695841
+f= 4
+
+  Threads 8, tamano 128
+    segundos: 0.000644, Mflops: 50.898822, Mflops por thread: 6.362353
+f= 8
+
+  Threads 8, tamano 128
+    segundos: 0.000730, Mflops: 44.895543, Mflops por thread: 5.611943
+t= 16
+f= 1
+
+  Threads 16, tamano 128
+    segundos: 0.000762, Mflops: 42.993258, Mflops por thread: 2.687079
+f= 2
+
+  Threads 16, tamano 128
+    segundos: 0.000707, Mflops: 46.354243, Mflops por thread: 2.897140
+f= 4
+
+  Threads 16, tamano 128
+    segundos: 0.000715, Mflops: 45.835717, Mflops por thread: 2.864732
+f= 8
+
+  Threads 16, tamano 128
+    segundos: 0.000898, Mflops: 36.479578, Mflops por thread: 2.279974
+n= 256
+t= 1
+f= 1
+
+  Threads 1, tamano 256
+    segundos: 0.030611, Mflops: 4.281830, Mflops por thread: 4.281830
+f= 2
+
+  Threads 1, tamano 256
+    segundos: 0.022546, Mflops: 5.813443, Mflops por thread: 5.813443
+f= 4
+
+  Threads 1, tamano 256
+    segundos: 0.024682, Mflops: 5.310420, Mflops por thread: 5.310420
+f= 8
+
+  Threads 1, tamano 256
+    segundos: 0.021726, Mflops: 6.032937, Mflops por thread: 6.032937
+t= 2
+f= 1
+
+  Threads 2, tamano 256
+    segundos: 0.010947, Mflops: 11.973471, Mflops por thread: 5.986736
+f= 2
+
+  Threads 2, tamano 256
+    segundos: 0.014636, Mflops: 8.955407, Mflops por thread: 4.477704
+f= 4
+
+  Threads 2, tamano 256
+    segundos: 0.011992, Mflops: 10.930370, Mflops por thread: 5.465185
+f= 8
+
+  Threads 2, tamano 256
+    segundos: 0.011854, Mflops: 11.057009, Mflops por thread: 5.528505
+t= 4
+f= 1
+
+  Threads 4, tamano 256
+    segundos: 0.007263, Mflops: 18.047765, Mflops por thread: 4.511941
+f= 2
+
+  Threads 4, tamano 256
+    segundos: 0.007234, Mflops: 18.117971, Mflops por thread: 4.529493
+f= 4
+
+  Threads 4, tamano 256
+    segundos: 0.007601, Mflops: 17.243691, Mflops por thread: 4.310923
+f= 8
+
+  Threads 4, tamano 256
+    segundos: 0.007702, Mflops: 17.018304, Mflops por thread: 4.254576
+t= 8
+f= 1
+
+  Threads 8, tamano 256
+    segundos: 0.005372, Mflops: 24.397022, Mflops por thread: 3.049628
+f= 2
+
+  Threads 8, tamano 256
+    segundos: 0.005534, Mflops: 23.684635, Mflops por thread: 2.960579
+f= 4
+
+  Threads 8, tamano 256
+    segundos: 0.006528, Mflops: 20.077376, Mflops por thread: 2.509672
+f= 8
+
+  Threads 8, tamano 256
+    segundos: 0.006305, Mflops: 20.787581, Mflops por thread: 2.598448
+t= 16
+f= 1
+
+  Threads 16, tamano 256
+    segundos: 0.006189, Mflops: 21.179311, Mflops por thread: 1.323707
+f= 2
+
+  Threads 16, tamano 256
+    segundos: 0.006303, Mflops: 20.796612, Mflops por thread: 1.299788
+f= 4
+
+  Threads 16, tamano 256
+    segundos: 0.005699, Mflops: 22.999010, Mflops por thread: 1.437438
+f= 8
+
+  Threads 16, tamano 256
+    segundos: 0.005753, Mflops: 22.784123, Mflops por thread: 1.424008
+n= 512
+t= 1
+f= 1
+
+  Threads 1, tamano 512
+    segundos: 0.186979, Mflops: 2.804000, Mflops por thread: 2.804000
+f= 2
+
+  Threads 1, tamano 512
+    segundos: 0.193419, Mflops: 2.710639, Mflops por thread: 2.710639
+f= 4
+
+  Threads 1, tamano 512
+    segundos: 0.188819, Mflops: 2.776676, Mflops por thread: 2.776676
+f= 8
+
+  Threads 1, tamano 512
+    segundos: 0.182140, Mflops: 2.878491, Mflops por thread: 2.878491
+t= 2
+f= 1
+
+  Threads 2, tamano 512
+    segundos: 0.099897, Mflops: 5.248270, Mflops por thread: 2.624135
+f= 2
+
+  Threads 2, tamano 512
+    segundos: 0.100651, Mflops: 5.208977, Mflops por thread: 2.604489
+f= 4
+
+  Threads 2, tamano 512
+    segundos: 0.096868, Mflops: 5.412369, Mflops por thread: 2.706185
+f= 8
+
+  Threads 2, tamano 512
+    segundos: 0.097728, Mflops: 5.364746, Mflops por thread: 2.682373
+t= 4
+f= 1
+
+  Threads 4, tamano 512
+    segundos: 0.055890, Mflops: 9.380671, Mflops por thread: 2.345168
+f= 2
+
+  Threads 4, tamano 512
+    segundos: 0.056853, Mflops: 9.221747, Mflops por thread: 2.305437
+f= 4
+
+  Threads 4, tamano 512
+    segundos: 0.057120, Mflops: 9.178702, Mflops por thread: 2.294676
+f= 8
+
+  Threads 4, tamano 512
+    segundos: 0.056609, Mflops: 9.261499, Mflops por thread: 2.315375
+t= 8
+f= 1
+
+  Threads 8, tamano 512
+    segundos: 0.042727, Mflops: 12.270730, Mflops por thread: 1.533841
+f= 2
+
+  Threads 8, tamano 512
+    segundos: 0.042692, Mflops: 12.280637, Mflops por thread: 1.535080
+f= 4
+
+  Threads 8, tamano 512
+    segundos: 0.041209, Mflops: 12.722589, Mflops por thread: 1.590324
+f= 8
+
+  Threads 8, tamano 512
+    segundos: 0.039301, Mflops: 13.340264, Mflops por thread: 1.667533
+t= 16
+f= 1
+
+  Threads 16, tamano 512
+    segundos: 0.038765, Mflops: 13.524685, Mflops por thread: 0.845293
+f= 2
+
+  Threads 16, tamano 512
+    segundos: 0.037512, Mflops: 13.976422, Mflops por thread: 0.873526
+f= 4
+
+  Threads 16, tamano 512
+    segundos: 0.038873, Mflops: 13.487264, Mflops por thread: 0.842954
+f= 8
+
+  Threads 16, tamano 512
+    segundos: 0.045114, Mflops: 11.621526, Mflops por thread: 0.726345
+n= 1024
+t= 1
+f= 1
+
+  Threads 1, tamano 1024
+    segundos: 2.082498, Mflops: 1.007037, Mflops por thread: 1.007037
+f= 2
+
+  Threads 1, tamano 1024
+    segundos: 1.678206, Mflops: 1.249640, Mflops por thread: 1.249640
+f= 4
+
+  Threads 1, tamano 1024
+    segundos: 1.722210, Mflops: 1.217710, Mflops por thread: 1.217710
+f= 8
+
+  Threads 1, tamano 1024
+    segundos: 1.631307, Mflops: 1.285566, Mflops por thread: 1.285566
+t= 2
+f= 1
+
+  Threads 2, tamano 1024
+    segundos: 0.846356, Mflops: 2.477860, Mflops por thread: 1.238930
+f= 2
+
+  Threads 2, tamano 1024
+    segundos: 0.975307, Mflops: 2.150249, Mflops por thread: 1.075124
+f= 4
+
+  Threads 2, tamano 1024
+    segundos: 0.977514, Mflops: 2.145392, Mflops por thread: 1.072696
+f= 8
+
+  Threads 2, tamano 1024
+    segundos: 0.891168, Mflops: 2.353263, Mflops por thread: 1.176631
+t= 4
+f= 1
+
+  Threads 4, tamano 1024
+    segundos: 0.465802, Mflops: 4.502236, Mflops por thread: 1.125559
+f= 2
+
+  Threads 4, tamano 1024
+    segundos: 0.548853, Mflops: 3.820970, Mflops por thread: 0.955242
+f= 4
+
+  Threads 4, tamano 1024
+    segundos: 0.589775, Mflops: 3.555848, Mflops por thread: 0.888962
+f= 8
+
+  Threads 4, tamano 1024
+    segundos: 0.548107, Mflops: 3.826175, Mflops por thread: 0.956544
+t= 8
+f= 1
+
+  Threads 8, tamano 1024
+    segundos: 0.461486, Mflops: 4.544350, Mflops por thread: 0.568044
+f= 2
+
+  Threads 8, tamano 1024
+    segundos: 0.492409, Mflops: 4.258965, Mflops por thread: 0.532371
+f= 4
+
+  Threads 8, tamano 1024
+    segundos: 0.440826, Mflops: 4.757325, Mflops por thread: 0.594666
+f= 8
+
+  Threads 8, tamano 1024
+    segundos: 0.412750, Mflops: 5.080928, Mflops por thread: 0.635116
+t= 16
+f= 1
+
+  Threads 16, tamano 1024
+    segundos: 0.748832, Mflops: 2.800565, Mflops por thread: 0.175035
+f= 2
+
+  Threads 16, tamano 1024
+    segundos: 0.791092, Mflops: 2.650958, Mflops por thread: 0.165685
+f= 4
+
+  Threads 16, tamano 1024
+    segundos: 0.779767, Mflops: 2.689459, Mflops por thread: 0.168091
+f= 8
+
+  Threads 16, tamano 1024
+    segundos: 0.800036, Mflops: 2.621324, Mflops por thread: 0.163833

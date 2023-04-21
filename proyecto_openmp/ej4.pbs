@@ -1,0 +1,26 @@
+#PBS -S /bin/bash
+
+#PBS -V
+#PBS -q batch
+#PBS -N myjob
+
+#PBS -l walltime=00:10:00
+
+source /etc/profile.d/modules.sh
+
+cd $PBS_O_WORKDIR
+
+for n in 512 1024 2048
+do
+	echo $n
+    for b in 4 16 32
+    do
+        echo $b
+        for t in 4 8 16
+        do
+            echo $t
+            ./mulmatcuablo $n $b $t
+        done
+    done
+done
+ 

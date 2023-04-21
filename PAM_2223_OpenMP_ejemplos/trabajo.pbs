@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -q batch
+#PBS -lnodes=marte:ppn=4
+#====== INICIO ==========================================
+# Cargamos entorno de ejecucion requerido
+source /etc/profile.d/modules.sh
+
+ 
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE
+ ./ejemplo_hello
+ 
