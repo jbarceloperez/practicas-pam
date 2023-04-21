@@ -1,5 +1,8 @@
 *.odt
+*.ods
 *.pdf
 *.zip
+*.rar
 .vscode/
 openmp_squarematrix.c
+2022/
